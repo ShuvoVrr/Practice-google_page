@@ -1,0 +1,91 @@
+body{
+    font-family: tahoma;
+    font-size: 14px;
+    opacity: 0.8;
+	margin:0px;
+}
+.header-area{
+    text-align: right;
+    margin: 15px 20px 40px;
+}
+.hd{
+    margin: 8px;
+    color: black;
+    text-decoration: none;
+}
+.material-icons{
+    margin:0px 8px;
+    color: black;
+    opacity: 0.6;
+}
+.material-icons:hover{
+    color: black;
+    opacity: 1;
+}
+.hd:hover{
+    text-decoration: underline;
+}
+.body-area{
+    text-align: center;
+    margin: 100px;
+}
+.img-area{
+    margin: 20px
+}
+.box{
+    width: 580px; height: 40px;
+    border-radius: 60px;
+    font-size: 18px;
+    box-shadow: 2px 2px;
+    margin: 0px 0px 10px;
+    opacity: 0.5;
+    
+}
+.but{
+    text-decoration: none;
+    color: black;
+    background-color: #e3dedc;
+    border-radius: 4px;
+    opacity: 0.6;
+    padding: 10px 18px;
+    margin: 5px 5px 10px;
+}
+.but:hover{
+    background-color: #f3eeec;
+    color: black;
+    opacity: 1;
+}
+.bd{
+    text-decoration: none;
+}
+.bd:hover{
+    text-decoration: underline;
+}
+.footer-area{
+    background-color: #f3f0ef;
+    opacity: 0.7;
+   padding-top: 10px;
+}
+.ban{
+    margin-left: 20px;
+}
+.ul li{
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+}
+.first{
+    color: black;
+    text-decoration: none
+}
+.ul a{
+	text-decoration: none;
+	color: black;
+    
+}
+.ul a:hover{
+	text-decoration: underline;
+}
+hr{
+    opacity: 0.2
+}
